@@ -1,0 +1,37 @@
+{
+  "name": "circular-dependencies-demo-start",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.jsx",
+  "dependencies": {
+    "@types/inversify": "2.0.33",
+    "inversify": "5.0.1",
+    "inversify-react": "0.4.3",
+    "leaflet": "1.6.0",
+    "mobx": "5.15.4",
+    "mobx-react": "6.2.5",
+    "navigo": "7.1.2",
+    "react": "16.8.4",
+    "react-dom": "16.8.4",
+    "react-scripts": "2.1.3",
+    "reflect-metadata": "0.1.13"
+  },
+  "devDependencies": {
+    "@types/react": "16.8.8",
+    "@types/react-dom": "16.8.2",
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

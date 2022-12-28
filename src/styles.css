@@ -1,0 +1,40 @@
+/* .App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  font-family: arial;
+}
+
+#mapid {
+  height: 1000px;
+}
+
+.flex-row-container {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  width: 200px;
+}
+
+.flex-row-container > .flex-row-item {
+  flex-grow: 1;
+  flex: 1 1 30%;
+  border: 1px solid #f76707;
+  margin: auto;
+}
+
+.flex-row-item > h5 {
+  margin-top: 10px;
+}
+
+.flex-row-item > div {
+  padding: 10px;
+}
+
+.book-list-title {
+  display: 'inline-block';
+  margin-top: '20px';
+} */

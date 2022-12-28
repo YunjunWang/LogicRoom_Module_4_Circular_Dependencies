@@ -1,0 +1,17 @@
+{
+  "strict": true,
+  "include": [
+    "./src/*",
+    "./src/Routing/*"
+  ],
+  "compilerOptions": {
+    "target": "es5",
+    "lib": [
+      "es6",
+      "dom"
+    ],
+    "jsx": "react",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true
+  }
+}
